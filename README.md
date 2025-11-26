@@ -39,6 +39,7 @@
   <li><a href="https://github.com/SelcanTaylan/JAVA/blob/main/FahrenheitCelsiusaCevirme.java">Fahrenheit to Celsius Conversion</a></li>
   <li><a href="https://github.com/SelcanTaylan/JAVA/blob/main/SayininKaresiniKupunuHesaplama.java">Square and Cube Calculator</a></li>
   <li><a href="https://github.com/SelcanTaylan/JAVA/blob/main/VizeFinalNotHesaplama.java">Midterm and Final Grade Calculator</a></li>
+  <li><a href="https://github.com/SelcanTaylan/JAVA/blob/main/BazalMetabolizmaHiziHesaplama.java">Calculation Of Basal Metabolic Rate</a></li>
 </ul>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
